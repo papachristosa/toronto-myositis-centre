@@ -23,3 +23,6 @@ deploy the whole folder to any static host (for example, GitHub Pages).
 - Fonts (Google Fonts) and the location map load from the internet, which is normal for a website.
 - To change a phone or fax number, open `contact.html` in a text editor. To edit any wording, open that page's `.html` file.
 - The medication, nutrition, and exercise content is patient-facing education and should be signed off by the clinical team before public release.
+
+## Designer reference (unlisted)
+- `brand.html` — brand & identity sheet (logo lockups, colour palette with hex, typography, usage). It is NOT linked from the site navigation and is set to no-index, so the public will not find it. Open it directly, or delete it before publishing if you prefer.
