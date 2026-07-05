@@ -26,3 +26,6 @@ deploy the whole folder to any static host (for example, GitHub Pages).
 
 ## Designer reference (unlisted)
 - `brand.html` — brand & identity sheet (logo lockups, colour palette with hex, typography, usage). It is NOT linked from the site navigation and is set to no-index, so the public will not find it. Open it directly, or delete it before publishing if you prefer.
+
+## Custom domain
+-  — connects the site to www.torontomyositis.ca on GitHub Pages. Keep this file in the folder; do not delete it when re-uploading, or the domain will disconnect. DNS must also be configured at the registrar (GoDaddy).
