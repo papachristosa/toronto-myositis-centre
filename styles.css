@@ -540,5 +540,5 @@ nav.main a.nav-link{font-size:13px;}
 @media(max-width:520px){ .brandmark .wm .t1{font-size:16.5px;} }
 @media(max-width:380px){ .brandmark .wm .t1{font-size:15px;} .brandmark svg{width:38px;height:38px;} }
 
-.hero .accolade{font-family:var(--serif);font-style:italic;font-size:15px;font-weight:500;color:var(--navy);margin:32px 0 0;line-height:1.5;}
+.hero .accolade{font-family:var(--serif);font-style:italic;font-size:17px;font-weight:500;color:var(--navy);margin:32px 0 0;line-height:1.5;}
 .hero .accolade + .host{margin-top:12px;}
