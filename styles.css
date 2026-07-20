@@ -562,3 +562,11 @@ nav.main a.nav-link{font-size:13px;}
 .faq-item p{font-family:var(--sans);font-size:14.5px;line-height:1.6;color:#3c4650;margin:0;}
 .faq-item a{color:var(--maple);font-weight:600;text-decoration:none;}
 .faq-item a:hover{text-decoration:underline;}
+
+/* ===== legal pages ===== */
+.legal-updated{font-family:var(--sans);font-size:13px;color:#7a8590;margin-top:14px;}
+.legal-prose{max-width:820px;}
+.legal-prose h2{font-family:var(--serif);font-size:20px;color:var(--navy);margin:30px 0 8px;}
+.legal-prose h2:first-child{margin-top:0;}
+.legal-prose p{margin:0 0 6px;}
+.foot-bottom .fine a{color:inherit;text-decoration:underline;}
